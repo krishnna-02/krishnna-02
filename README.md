@@ -54,20 +54,6 @@ AI/ML Enthusiast • Data Analyst • SQL • Excel
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=krishnna-02&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnna-02&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 Contribution Graph
 
 <p align="center">
